@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lua scripting, and trying Blender
 - 💞️ I’m looking to collaborate on with hungarian people who wants to make any roblox game
 - 📫 How to reach me: Discord: mbence_lol
--😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am hungarian and want to make a hotel tycoon in roblox like the Restaurant Tycoon series
 
 <!---
